@@ -1,0 +1,15 @@
+.banner{
+background-color:salmon;
+width:150%;
+height:100%;
+margin-bottom:100px;
+
+}
+
+.banner-text{
+text-color:white;
+top:20%;
+left:50%;
+position:absolute;
+transform:transform;
+}
